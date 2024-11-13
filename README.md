@@ -4,6 +4,8 @@
 - I am interested in learning new things and exploring new horizons.
 - Currently learning *Rust* and *Docker compose*. I'm excited to create something cool!
 
+## Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=rust,docker,cpp,java,python,js,ts)](https://skillicons.dev)
 
 ## 𝗦𝘁𝗮𝘁𝘀
 

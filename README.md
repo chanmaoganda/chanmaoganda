@@ -1,6 +1,8 @@
 ## About Me
-- I'm game-addicted, I spend almost all my free time playing video games. I love to learn new things and explore new horizons.
-- I'm currently learning Rust and Docker compose. I'm excited to create something cool!
+- I'm a `college student` majoring in `Computer Science` at `Tianjin University`.
+- I love **sports** and **programming**. Programming is **work of art** to me. Sports makes my mind `sharp`!
+- I am interested in learning new things and exploring new horizons.
+- Currently learning *Rust* and *Docker compose*. I'm excited to create something cool!
 
 
 ## 𝗦𝘁𝗮𝘁𝘀

@@ -7,8 +7,8 @@
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=rust,docker,cpp,java,python,js,ts)](https://skillicons.dev)
 
-## 𝗦𝘁𝗮𝘁𝘀
+## Stats
 
 ![jingchen wang's github stats](https://github-readme-stats.vercel.app/api?username=chanmaoganda&show_icons=true&theme=dracula)
 
-![jingchen wang's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanmaoganda&layout=compact&theme=dracula)
+![jingchen wang's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanmaoganda&layout=compact&theme=dracula&hide=stylus,html,css,pug)

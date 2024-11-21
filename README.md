@@ -11,4 +11,4 @@
 
 ![jingchen wang's github stats](https://github-readme-stats.vercel.app/api?username=chanmaoganda&show_icons=true&theme=dracula)
 
-![jingchen wang's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanmaoganda&layout=compact&theme=dracula&hide=stylus,html,css,pug)
+![jingchen wang's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chanmaoganda&layout=compact&theme=dracula&hide=stylus,html,css,pug&exclude_repo=nu_scripts,coriander_player,trilium)

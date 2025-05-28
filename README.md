@@ -5,7 +5,7 @@
 - Currently learning *Rust* and *Docker compose*. I'm excited to create something cool!
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=rust,docker,cpp,java,python,js,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=rust,go,docker,cpp,java,python,js,ts)](https://skillicons.dev)
 
 ## Stats
 

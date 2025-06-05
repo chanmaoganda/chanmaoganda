@@ -2,7 +2,7 @@
 - I'm a `college student` majoring in `Computer Science` at `Tianjin University`.
 - I love **sports** and **programming**. Programming is **work of art** to me. Sports makes my mind `sharp`!
 - I am interested in learning new things and exploring new horizons.
-- Currently learning *Rust* and *Docker compose*. I'm excited to create something cool!
+- I'm excited to create something cool!
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=rust,go,docker,cpp,java,python,js,ts)](https://skillicons.dev)
